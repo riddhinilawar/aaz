@@ -1,0 +1,9 @@
+# [Command] _network network-watcher flow-log list_
+
+List all flow log resources for the specified Network Watcher.
+
+## Versions
+
+### [2025-03-01](/Resources/mgmt-plane/L3N1YnNjcmlwdGlvbnMve30vcmVzb3VyY2Vncm91cHMve30vcHJvdmlkZXJzL21pY3Jvc29mdC5uZXR3b3JrL25ldHdvcmt3YXRjaGVycy97fS9mbG93bG9ncw==/2025-03-01.xml) **Stable**
+
+<!-- mgmt-plane /subscriptions/{}/resourcegroups/{}/providers/microsoft.network/networkwatchers/{}/flowlogs 2025-03-01 -->
